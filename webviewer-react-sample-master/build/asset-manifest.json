@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SJyothy/webviewer-react-sample.git/static/css/main.485814af.css",
+    "main.js": "/SJyothy/webviewer-react-sample.git/static/js/main.d789c80e.js",
+    "index.html": "/SJyothy/webviewer-react-sample.git/index.html",
+    "main.485814af.css.map": "/SJyothy/webviewer-react-sample.git/static/css/main.485814af.css.map",
+    "main.d789c80e.js.map": "/SJyothy/webviewer-react-sample.git/static/js/main.d789c80e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485814af.css",
+    "static/js/main.d789c80e.js"
+  ]
+}
